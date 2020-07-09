@@ -1,16 +1,45 @@
-### Hi there 👋
+<h1 align="center">
+    José Guilherme Paro Monteiro Tomaine
+<h1>
 
-<!--
-**zehguilherme/zehguilherme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/zehguilherme)](https://github.com/zehguilherme)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=http://linkedin.com/in/jos%C3%A9-guilherme-paro-monteiro-tomaine)](http://linkedin.com/in/jos%C3%A9-guilherme-paro-monteiro-tomaine)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/zehguilherme__)](https://twitter.com/zehguilherme__)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5514981195569)](https://api.whatsapp.com/send?phone=5514981195569)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/zehguilherme)](https://t.me/zehguilherme)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+## Olá 👋
+
+Meu nome é José Guilherme Paro Monteiro Tomaine, sou formado em Ciência da Computação.
+
+- 🎓[Centro Universitário Sagrado Coração - Unisagrado](https://unisagrado.edu.br/) (2016 - 2019).
+
+## 🚀 Tecnologias
+
+| Nível de conhecimento | Linguagens | Frameworks/Bibliotecas | Banco de dados | Modelagem 3D | Versionamento |
+| :-------------------: | :--------: | :--------------------: | :------------: | :----------: | :-----------: |
+|                       |   HTML 5   |         NodeJS         |     MySQL      |   Blender    |      SVN      |
+|                       |    CSS3    |        ReactJS         |     Oracle     |              |      Git      |
+|                       |   Pascal   |      React Native      |                |              |               |
+|      **Básico**       |     C#     |                        |                |              |               |
+|                       |    Java    |                        |                |              |               |
+|                       | JavaScript |                        |                |              |               |
+|                       |            |                        |                |              |               |
+|   **Intermediário**   |    C++     |                        |                |              |               |
+|                       |            |                        |                |              |               |
+|     **Avançado**      |            |                        |                |              |               |
+|                       |            |                        |                |              |               |
+
+## ⚙ Trabalho
+
+Procurando uma oportunidade.
+
+## 📚 Estudando
+
+- ReactJS
+- React Native
+- NodeJS
