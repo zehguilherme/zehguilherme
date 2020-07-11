@@ -18,25 +18,17 @@ Meu nome é José Guilherme Paro Monteiro Tomaine, sou formado em Ciência da Co
 
 - 🎓[Centro Universitário Sagrado Coração - Unisagrado](https://unisagrado.edu.br/) (2016 - 2019).
 
-## 🚀 Tecnologias
+## 🚀 Tecnologias que conheço e/ou já utilizei
 
-| Nível de conhecimento | Linguagens | Frameworks/Bibliotecas | Banco de dados | Modelagem 3D | Versionamento |
-| :-------------------: | :--------: | :--------------------: | :------------: | :----------: | :-----------: |
-|                       |   HTML 5   |         NodeJS         |     MySQL      |   Blender    |      SVN      |
-|                       |    CSS3    |        ReactJS         |     Oracle     |              |      Git      |
-|                       |   Pascal   |      React Native      |                |              |               |
-|      **Básico**       |     C#     |                        |                |              |               |
-|                       |    Java    |                        |                |              |               |
-|                       | JavaScript |                        |                |              |               |
-|                       |            |                        |                |              |               |
-|   **Intermediário**   |    C++     |                        |                |              |               |
-|                       |            |                        |                |              |               |
-|     **Avançado**      |            |                        |                |              |               |
-|                       |            |                        |                |              |               |
+- **Linguagens:** HTML 5, CSS 3, Pascal, C#, Java, JavaScript, TypeScript, C++
+- **Frameworks/Bibliotecas:** NodeJS, ReactJS, React Native
+- **Banco de dados:** MySQL, Oracle
+- **Versionamento:** SVN, Git
+- **Modelagem 3D:** Blender
 
 ## ⚙ Trabalho
 
-Procurando uma oportunidade.
+Procurando uma oportunidade na stack JavaScript.
 
 ## 📚 Estudando
 
