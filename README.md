@@ -1,6 +1,4 @@
-<h1 align="center">
-    José Guilherme Paro Monteiro Tomaine
-<h1>
+# 👋 Olá, sou o José Guilherme Paro Monteiro Tomaine
 
 <div align="center">
 
@@ -9,18 +7,24 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/zehguilherme__)](https://twitter.com/zehguilherme__)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5514981195569)](https://api.whatsapp.com/send?phone=5514981195569)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/zehguilherme)](https://t.me/zehguilherme)
+[![Outlook Badge](https://img.shields.io/badge/-Outlook-0000FF?style=flat-square&labelColor=0000FF&logo=gmail&logoColor=white&link=mailto:jgtomaine@hotmail.com)](mailto:jgtomaine@hotmail.com)
 
 </div>
 
-## Olá 👋
+Sou desenvolvedor de software
 
-Meu nome é José Guilherme Paro Monteiro Tomaine, sou formado em Ciência da Computação.
+## 🎓 Formação
 
-- 🎓[Centro Universitário Sagrado Coração - Unisagrado](https://unisagrado.edu.br/) (2016 - 2019).
+- [Centro Universitário Sagrado Coração - Unisagrado](https://unisagrado.edu.br/)
+  - Ciência da Computação (2016 - 2019)
+
+## 📔 TCC
+
+- [Modelagem 3D do Zoológico de Bauru](https://github.com/zehguilherme/tcc-rv-zoo-bauru)
 
 ## 🚀 Tecnologias que conheço e/ou já utilizei
 
-- **Linguagens:** HTML 5, CSS 3, Pascal, C#, Java, JavaScript, TypeScript, C++
+- **Linguagens de programação:** HTML5, CSS3, Pascal, C#, Java, JavaScript, TypeScript, C++
 - **Frameworks/Bibliotecas:** NodeJS, ReactJS, React Native
 - **Banco de dados:** MySQL, Oracle
 - **Versionamento:** SVN, Git
@@ -28,7 +32,13 @@ Meu nome é José Guilherme Paro Monteiro Tomaine, sou formado em Ciência da Co
 
 ## ⚙ Trabalho
 
-Procurando uma oportunidade na stack JavaScript.
+- Procurando uma nova oportunidade.
+
+### Oportunidades anteriores
+
+- [ABC71 Soluções em Informática S/A](https://www.abc71.com.br/) - 05/11/18 à 15/12/19
+- [SpekSciences](https://www.linkedin.com/company/speksciences/) - 01/04/19 à 31/05/19
+- [TV Unesp](https://tv.unesp.br/) - 10/09/18 à 17/10/18
 
 ## 📚 Estudando
 
