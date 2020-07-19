@@ -11,6 +11,12 @@
 
 </div>
 
+<div align="center">
+
+[![José Guilherme Paro Monteiro Tomaine's github stats](https://github-readme-stats.vercel.app/api?username=zehguilherme&show_icons=true)](https://github.com/zehguilherme/github-readme-stats)
+
+</div>
+
 ## 🎓 Formação
 
 - [Centro Universitário Sagrado Coração - Unisagrado](https://unisagrado.edu.br/)
