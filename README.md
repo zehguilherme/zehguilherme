@@ -11,8 +11,6 @@
 
 </div>
 
-Sou desenvolvedor de software
-
 ## 🎓 Formação
 
 - [Centro Universitário Sagrado Coração - Unisagrado](https://unisagrado.edu.br/)
@@ -22,12 +20,13 @@ Sou desenvolvedor de software
 
 - [Modelagem 3D do Zoológico de Bauru](https://github.com/zehguilherme/tcc-rv-zoo-bauru)
 
-## 🚀 Tecnologias que conheço e/ou já utilizei
+## 🚀 Conhecimento
 
-- **Linguagens de programação:** HTML5, CSS3, Pascal, C#, Java, JavaScript, TypeScript, C++
+- **Linguagens:** HTML5, CSS3, Pascal, C#, Java, JavaScript, TypeScript, C++
 - **Frameworks/Bibliotecas:** NodeJS, ReactJS, React Native
-- **Banco de dados:** MySQL, Oracle
+- **Banco de dados:** MySQL, Oracle, SQLite
 - **Versionamento:** SVN, Git
+- **IDE:** Visual Studio Code
 - **Modelagem 3D:** Blender
 
 ## ⚙ Trabalho
