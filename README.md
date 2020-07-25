@@ -32,7 +32,7 @@
 - **Frameworks/Bibliotecas:** NodeJS, ReactJS, React Native
 - **Banco de dados:** MySQL, Oracle, SQLite
 - **Versionamento:** SVN, Git
-- **IDE:** Visual Studio Code
+- **IDE:** Visual Studio Code, Visual Studio
 - **Modelagem 3D:** Blender
 
 ## ⚙ Trabalho
