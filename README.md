@@ -50,12 +50,12 @@
 
 <div align="center">
 
-[![José Guilherme Paro Monteiro Tomaine's github stats](https://github-readme-stats.vercel.app/api?username=zehguilherme&show_icons=true)](https://github.com/zehguilherme/github-readme-stats)
+[![José Guilherme Paro Monteiro Tomaine's github stats](https://github-readme-stats-1-steel.vercel.app/api?username=zehguilherme&show_icons=true)](https://github.com/zehguilherme/github-readme-stats)
 
 </div>
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zehguilherme&layout=default)](https://github.com/zehguilherme/github-readme-stats)
+[![Top Langs](https://github-readme-stats-1-steel.vercel.app/api/top-langs/?username=zehguilherme&layout=default)](https://github.com/zehguilherme/github-readme-stats)
 
 </div>
