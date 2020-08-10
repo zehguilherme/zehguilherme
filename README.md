@@ -34,17 +34,15 @@
 
 - Looking for a new opportunity.
 
-<h3>
-  <details>
-    <summary>Previous opportunities</summary>
-  <br>
+<details>
+  <summary>Previous opportunities</summary>
+<br>
 
-  - [ABC71 Soluções em Informática S/A](https://www.abc71.com.br/) - 📆 05/11/18 to 15/12/19
-  - [SpekSciences](https://www.linkedin.com/company/speksciences/) - 📆 01/04/19 to 31/05/19
-  - [TV Unesp](https://tv.unesp.br/) - 📆 10/09/18 to 17/10/18
+- [ABC71 Soluções em Informática S/A](https://www.abc71.com.br/) - 📆 05/11/18 to 15/12/19
+- [SpekSciences](https://www.linkedin.com/company/speksciences/) - 📆 01/04/19 to 31/05/19
+- [TV Unesp](https://tv.unesp.br/) - 📆 10/09/18 to 17/10/18
 
-  </details>
-</h3>
+</details>
 
 
 ## 📚 Studying
