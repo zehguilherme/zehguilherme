@@ -12,12 +12,6 @@
 
 </div>
 
-<div align="center">
-
-  ![](https://komarev.com/ghpvc/?username=zehguilherme&label=Views&color=red&style=flat-square)
-
-</div>
-
 ## 🎓 Formation
 
 - [Centro Universitário Sagrado Coração - Unisagrado](https://unisagrado.edu.br/)
