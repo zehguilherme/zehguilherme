@@ -15,7 +15,7 @@
 ## 🎓 Formation
 
 - [Centro Universitário Sagrado Coração - Unisagrado](https://unisagrado.edu.br/)
-  - Computing Science - 2016 to 2019 📆
+  - Computing Science - 📆 2016 to 2019
 
 ## 📔 Completion of course work
 
