@@ -12,6 +12,12 @@
 
 </div>
 
+<div align="center">
+
+  ![](https://komarev.com/ghpvc/?username=zehguilherme&label=Views&color=red&style=flat-square)
+
+</div>
+
 ## 🎓 Formation
 
 - [Centro Universitário Sagrado Coração - Unisagrado](https://unisagrado.edu.br/)
@@ -23,7 +29,7 @@
 
 ## 🚀 Knowledge
 
-- **Languages:** HTML5, CSS3, Pascal, C#, Java, JavaScript, TypeScript, C++
+- **Languages:** HTML5, CSS3, Pascal, C#, Java, JavaScript, C++
 - **Frameworks/Libraries:** NodeJS, ReactJS, React Native
 - **Database:** MySQL, Oracle, SQLite
 - **Versioning:** SVN, Git
@@ -34,11 +40,15 @@
 
 - Looking for a new opportunity.
 
-### Previous opportunities
+  <details>
+    <summary>Previous opportunities</summary>
 
-- [ABC71 Soluções em Informática S/A](https://www.abc71.com.br/) - 📆 05/11/18 to 15/12/19
-- [SpekSciences](https://www.linkedin.com/company/speksciences/) - 📆 01/04/19 to 31/05/19
-- [TV Unesp](https://tv.unesp.br/) - 📆 10/09/18 to 17/10/18
+  - [ABC71 Soluções em Informática S/A](https://www.abc71.com.br/) - 📆 05/11/18 to 15/12/19
+  - [SpekSciences](https://www.linkedin.com/company/speksciences/) - 📆 01/04/19 to 31/05/19
+  - [TV Unesp](https://tv.unesp.br/) - 📆 10/09/18 to 17/10/18
+
+  </details>
+
 
 ## 📚 Studying
 
@@ -46,16 +56,23 @@
 - React Native
 - NodeJS
 
-## 🔢 Statistics
+<h2>
+<details>
+  <summary>🔢 Statistics</summary>
+  <br>
 
-<div align="center">
+  <div align="center">
 
-[![José Guilherme Paro Monteiro Tomaine's github stats](https://github-readme-stats-1-steel.vercel.app/api?username=zehguilherme&show_icons=true)](https://github.com/zehguilherme/github-readme-stats)
+  [![José Guilherme Paro Monteiro Tomaine's github stats](https://github-readme-stats-1-steel.vercel.app/api?username=zehguilherme&show_icons=true)](https://github.com/zehguilherme/github-readme-stats)
 
-</div>
+  </div>
 
-<div align="center">
+  <div align="center">
 
-[![Top Langs](https://github-readme-stats-1-steel.vercel.app/api/top-langs/?username=zehguilherme&layout=default)](https://github.com/zehguilherme/github-readme-stats)
+  [![Top Langs](https://github-readme-stats-1-steel.vercel.app/api/top-langs/?username=zehguilherme&layout=default)](https://github.com/zehguilherme/github-readme-stats)
 
-</div>
+  </div>
+
+</details>
+</h2>
+
