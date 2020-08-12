@@ -12,13 +12,6 @@
 
 </div>
 
-<div align="center">
-  <a href="README.md">English</a>
-  ·
-  <a href="README-pt.md">Português
-  </a>
-</div>
-
 ## 🎓 Formation
 
 - [Centro Universitário Sagrado Coração - Unisagrado](https://unisagrado.edu.br/)
