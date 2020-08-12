@@ -44,7 +44,6 @@
 
 </details>
 
-
 ## 📚 Studying
 
 - ReactJS
@@ -70,4 +69,3 @@
 
 </details>
 </h2>
-
