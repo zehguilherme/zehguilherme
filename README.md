@@ -12,6 +12,13 @@
 
 </div>
 
+<div align="center">
+  <a href="README.md">English</a>
+  ·
+  <a href="README-pt.md">Português
+  </a>
+</div>
+
 ## 🎓 Formation
 
 - [Centro Universitário Sagrado Coração - Unisagrado](https://unisagrado.edu.br/)
@@ -38,12 +45,11 @@
   <summary>Previous opportunities</summary>
 <br>
 
-- [ABC71 Soluções em Informática S/A](https://www.abc71.com.br/) - 📆 05/11/18 to 15/12/19
-- [SpekSciences](https://www.linkedin.com/company/speksciences/) - 📆 01/04/19 to 31/05/19
-- [TV Unesp](https://tv.unesp.br/) - 📆 10/09/18 to 17/10/18
+- [ABC71 Soluções em Informática S/A](https://www.abc71.com.br/) - 📆 11/05/18 to 12/15/19
+- [SpekSciences](https://www.linkedin.com/company/speksciences/) - 📆 04/01/19 to 05/31/19
+- [TV Unesp](https://tv.unesp.br/) - 📆 09/10/18 to 10/17/18
 
 </details>
-
 
 ## 📚 Studying
 
@@ -70,4 +76,3 @@
 
 </details>
 </h2>
-
