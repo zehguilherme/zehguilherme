@@ -1,6 +1,7 @@
 <h1 align="center">
-  👋 Hello, welcome to my profile!
+  👋 Olá, seja bem vindo ao meu perfil!
 </h1>
+
 
 <div align="center">
 
@@ -15,43 +16,42 @@
 <div align="center">
   <a href="README.md">English</a>
   ·
-  <a href="README-pt.md">Português
-  </a>
+  <a href="README-pt.md">Portuguese</a>
 </div>
 
-## 🎓 Formation
+## 🎓 Formação
 
 - [Centro Universitário Sagrado Coração - Unisagrado](https://unisagrado.edu.br/)
-  - Computing Science - 📆 2016 to 2019
+  - Ciência da Computação - 📆 2016 à 2019
 
-## 📔 Completion of course work
+## 📔 Trabalho de Conclusão de Curso
 
-- [3D modeling of the Bauru Zoo](https://github.com/zehguilherme/tcc-rv-zoo-bauru)
+- [Modelagem 3D do Zoológico de Bauru](https://github.com/zehguilherme/tcc-rv-zoo-bauru)
 
-## 🚀 Knowledge
+## 🚀 Conhecimento
 
-- **Languages:** HTML5, CSS3, Pascal, C#, Java, JavaScript, C++
-- **Frameworks/Libraries:** NodeJS, ReactJS, React Native
-- **Database:** MySQL, Oracle, SQLite
-- **Versioning:** SVN, Git
+- **Linguagens:** HTML5, CSS3, Pascal, C#, Java, JavaScript, C++
+- **Frameworks/Bibliotecas:** NodeJS, ReactJS, React Native
+- **Banco de dados:** MySQL, Oracle, SQLite
+- **Versionamento:** SVN, Git
 - **IDE:** Visual Studio Code, Visual Studio
-- **3d modeling:** Blender
+- **Modelagem 3D:** Blender
 
-## 💼 Work
+## 💼 Trabalho
 
-- Looking for a new opportunity.
+- Procurando uma nova oportunidade.
 
 <details>
-  <summary>Previous opportunities</summary>
+  <summary>Oportunidades anteriores</summary>
 <br>
 
-- [ABC71 Soluções em Informática S/A](https://www.abc71.com.br/) - 📆 11/05/18 to 12/15/19
-- [SpekSciences](https://www.linkedin.com/company/speksciences/) - 📆 04/01/19 to 05/31/19
-- [TV Unesp](https://tv.unesp.br/) - 📆 09/10/18 to 10/17/18
+- [ABC71 Soluções em Informática S/A](https://www.abc71.com.br/) - 📆 05/11/18 à 15/12/19
+- [SpekSciences](https://www.linkedin.com/company/speksciences/) - 📆 01/04/19 à 31/05/19
+- [TV Unesp](https://tv.unesp.br/) - 📆 10/09/18 à 17/10/18
 
 </details>
 
-## 📚 Studying
+## 📚 Estudando
 
 - ReactJS
 - React Native
@@ -59,7 +59,7 @@
 
 <h2>
 <details>
-  <summary>🔢 Statistics</summary>
+  <summary>🔢 Estatísticas</summary>
   <br>
 
   <div align="center">
