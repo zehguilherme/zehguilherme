@@ -27,7 +27,7 @@
 
 ## 🚀 Knowledge
 
-- **Languages:** HTML5, CSS3, JavaScript, C++, C#, Java
+- **Languages:** HTML5, CSS3, JavaScript, C++, C#
 - **Frameworks/Libraries:** NodeJS, ReactJS, React Native
 - **Database:** MySQL, Oracle
 - **Versioning:** Git, SVN
@@ -35,7 +35,3 @@
 - **3D modeling:** Blender
 
 <br/>
-
-<img align="left" width="353" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zehguilherme&layout=compact&theme=algolia" alt="José Guilherme Paro Monteiro Tomaine's github stats" />
-
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=zehguilherme&show_icons=true&theme=algolia&count_private=true" alt="José Guilherme Paro Monteiro Tomaine's github stats" />
