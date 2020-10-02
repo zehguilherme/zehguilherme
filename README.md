@@ -33,5 +33,4 @@
 - **Versioning:** Git, SVN
 - **IDE:** Visual Studio Code, Visual Studio
 - **3D modeling:** Blender
-
-<br/>
+- **Another tools:** Adobe XD
