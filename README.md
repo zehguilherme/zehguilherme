@@ -34,3 +34,7 @@
 - **IDE:** Visual Studio Code, Visual Studio
 - **3D modeling:** Blender
 - **Another tools:** Adobe XD
+
+## ℹ Other informations
+
+- [sourcerer.io](https://sourcerer.io/zehguilherme)
