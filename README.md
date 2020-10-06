@@ -28,7 +28,7 @@
 ## 🚀 Knowledge
 
 - **Languages:** HTML5, CSS3, JavaScript, C++, C#
-- **Frameworks/Libraries:** NodeJS, ReactJS, React Native
+- **Frameworks/Libraries:** NodeJS, ReactJS, React Native, Xamarin Forms
 - **Database:** MySQL, Oracle
 - **Versioning:** Git, SVN
 - **IDE:** Visual Studio Code, Visual Studio
