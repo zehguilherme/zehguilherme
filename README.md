@@ -37,4 +37,4 @@
 
 ## ℹ Other informations
 
-- [sourcerer.io](https://sourcerer.io/zehguilherme)
+<img align="left" alt="José Guilherme's Github Stats" src="https://github-readme-stats.vercel.app/api?username=zehguilherme&show_icons=true&hide_border=true" />
