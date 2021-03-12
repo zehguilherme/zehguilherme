@@ -28,11 +28,10 @@
 ## 🚀 Knowledge
 
 - **Languages:** HTML5, CSS3, JavaScript, C++, C#
-- **Frameworks/Libraries:** NodeJS, ReactJS, React Native, Xamarin Forms
+- **Frameworks/Libraries:** ReactJS, jQuery, Xamarin Forms, ASP.NET Core
 - **Database:** MySQL, Oracle
 - **Versioning:** Git, SVN
 - **IDE:** Visual Studio Code, Visual Studio
-- **3D modeling:** Blender
 - **Another tools:** Adobe XD
 
 ## ℹ Other informations
