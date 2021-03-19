@@ -37,3 +37,5 @@
 ## ℹ Other informations
 
 <img align="left" alt="José Guilherme's Github Stats" src="https://github-readme-stats.vercel.app/api?username=zehguilherme&show_icons=true&hide_border=true" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zehguilherme&layout=compact)](https://github.com/zehguilherme/github-readme-stats)
