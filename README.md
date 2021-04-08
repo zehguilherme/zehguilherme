@@ -36,7 +36,7 @@
 
 ## ℹ Other informations
 
-[![José Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=zehguilherme)](https://github.com/zehguilherme/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=zehguilherme)](https://github.com/zehguilherme/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zehguilherme&layout=compact)](https://github.com/zehguilherme/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zehguilherme&layout=compact)](https://github.com/zehguilherme/github-readme-stats)
 
