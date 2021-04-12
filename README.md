@@ -11,12 +11,6 @@
 
 </div>
 
-<div align="center">
-
-[![Website](https://img.shields.io/website?label=curriculum&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://joseguilherme.vercel.app/)
-
-</div>
-
 ## 🎓 Graduation
 
 - Computing Science at [Unisagrado](https://unisagrado.edu.br/)
@@ -25,18 +19,6 @@
 
 - [3D modeling of the Bauru Zoo](https://github.com/zehguilherme/tcc-rv-zoo-bauru)
 
-## 🚀 Knowledge
+## 📝 Curriculum
 
-- **Languages:** HTML5, CSS3, JavaScript, C++, C#
-- **Frameworks/Libraries:** ReactJS, jQuery, Xamarin Forms, ASP.NET Core
-- **Database:** MySQL, Oracle
-- **Versioning:** Git, SVN
-- **IDE:** Visual Studio Code, Visual Studio
-- **Another tools:** Adobe XD
-
-## ℹ Other informations
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=zehguilherme)](https://github.com/zehguilherme/github-readme-stats)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zehguilherme&layout=compact)](https://github.com/zehguilherme/github-readme-stats)
-
+- [Site](https://joseguilherme.vercel.app/)
