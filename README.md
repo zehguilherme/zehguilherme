@@ -25,24 +25,6 @@
 
 - [Site](https://joseguilherme.vercel.app/)
 
-## ⚙ Some technologies that I work with
-
-<div align="center">
-<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript">
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3">
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap">
-<img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white">
-<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git">
-<img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github">
-<img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white">
-<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=flat-square&logo=git&logoColor=white"/>
-<img src ="https://img.shields.io/badge/mysql-%23316192.svg?&style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=flat-square&logo=jquery&logoColor=white"/>
-</div>
-
 ## ℹ Other informations
 
 <center>
