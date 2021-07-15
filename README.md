@@ -17,13 +17,9 @@
 
 - Computing Science at [Unisagrado](https://unisagrado.edu.br/)
 
-## 📔 Completion of course work
-
-- [3D modeling of the Bauru Zoo](https://github.com/zehguilherme/tcc-rv-zoo-bauru)
-
 ## 📝 Curriculum
 
-- [Site](https://joseguilherme.vercel.app/)
+- [joseguilherme.vercel.app](https://joseguilherme.vercel.app/)
 
 ## ℹ Other informations
 
