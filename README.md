@@ -23,15 +23,6 @@
 
 ## ℹ Other informations
 
-<center>
-    <table>
-        <tr>
-            <td>
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zehguilherme&hide=html&layout=compact&theme=buefy" />
-            </td>
-            <td>
-                <img src="https://github-readme-stats.vercel.app/api?username=zehguilherme&theme=buefy"/>
-            </td>
-        </tr>   
-    </table>
-</center>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zehguilherme&theme=buefy"/>
+</div>
