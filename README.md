@@ -6,11 +6,9 @@
 <br>
 
 <div align="center">
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=http://linkedin.com/in/jos%C3%A9-guilherme-paro-monteiro-tomaine)](http://linkedin.com/in/jos%C3%A9-guilherme-paro-monteiro-tomaine)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/zehguilherme)](https://t.me/zehguilherme)
-[![Outlook Badge](https://img.shields.io/badge/-Email-0000FF?style=flat-square&labelColor=0000FF&logo=microsoft-outlook&logoColor=white&link=mailto:jgtomaine@hotmail.com)](mailto:jgtomaine@hotmail.com)
-
+  <a href="https://www.linkedin.com/in/jos%C3%A9-guilherme-paro-monteiro-tomaine/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:jgtomaine@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  <a href="https://t.me/zehguilherme" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </div>
 
 ## 🎓 Graduation
@@ -23,6 +21,8 @@
 
 ## ℹ Other informations
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zehguilherme&theme=buefy"/>
+<div>
+  <a href="https://github.com/zehguilherme">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zehguilherme&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zehguilherme&layout=compact&langs_count=7"/>
 </div>
