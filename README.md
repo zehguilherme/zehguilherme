@@ -3,22 +3,21 @@
   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 </h1>
 
-<br>
+## 🎓 Graduation
+- Computing Science at [Unisagrado](https://unisagrado.edu.br/) - Bauru/SP, Brazil (2019)
+
+## ⚙ Technologies
+- Front-end (HTML, CSS, JavaScript and jQuery)
+- Back-end (ASP.NET, .NET, .NET Core)
+
+## 📞 Contact Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/jos%C3%A9-guilherme-paro-monteiro-tomaine/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:jgtomaine@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 </div>
 
-## 🎓 Graduation
-
-- Computing Science at [Unisagrado](https://unisagrado.edu.br/)
-
-## 📝 Curriculum
-
-- [joseguilherme.vercel.app](https://joseguilherme.vercel.app/)
-
-## ℹ Other informations
+## Other Informations
 
 <div>
   <a href="https://github.com/zehguilherme">
