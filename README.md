@@ -17,7 +17,7 @@
   <a href = "mailto:jgtomaine@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 </div>
 
-## Other Informations
+## ℹ Other Informations
 
 <div>
   <a href="https://github.com/zehguilherme">
