@@ -1,14 +1,13 @@
 <h1 align="center">
-  Hi there 
+  Hello, I'm José Guilherme 
   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 </h1>
 
 ## 🎓 Graduation
-- Computing Science at [Unisagrado](https://unisagrado.edu.br/) - Bauru/SP, Brazil (2019)
+Computing Science at [Unisagrado](https://unisagrado.edu.br/) (2019)
 
-## ⚙ Technologies
-- Front-end (HTML, CSS, JavaScript and jQuery)
-- Back-end (ASP.NET, .NET, .NET Core)
+## 💼 Work
+Junior Front-end Developer at [Kentech](http://kentech.com.br/)
 
 ## 📞 Contact Me
 
