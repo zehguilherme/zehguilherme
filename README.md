@@ -7,7 +7,7 @@
 Computing Science at [Unisagrado](https://unisagrado.edu.br/) (2019)
 
 ## 💼 Work
-Junior Front-end Developer at [Kentech](http://kentech.com.br/)
+Junior Front-end Developer
 
 ## 📞 Contact Me
 
