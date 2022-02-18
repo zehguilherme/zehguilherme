@@ -6,9 +6,6 @@
 ## 🎓 Graduation
 Computing Science at [Unisagrado](https://unisagrado.edu.br/) (2019)
 
-## 💼 Work
-Junior Front-end Developer on [Kentech](http://kentech.com.br/)
-
 ## 📞 Contact Me
 
 <div align="center">
