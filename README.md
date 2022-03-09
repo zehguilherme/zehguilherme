@@ -6,6 +6,9 @@
 ## 🎓 Graduation
 Computing Science at [Unisagrado](https://unisagrado.edu.br/) (2019)
 
+## 💼 Work
+Front-end Software Developer
+
 ## 📞 Contact Me
 
 <div align="center">
