@@ -1,13 +1,4 @@
-<h1 align="center">
-  Hello, I'm José Guilherme 
-  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
-</h1>
-
-## 🎓 Graduation
-Computing Science at [Unisagrado](https://unisagrado.edu.br/) (2019)
-
-## 💼 Work
-Front-end Software Developer
+# Hello, I'm José Guilherme
 
 ## 📞 Contact Me
 
