@@ -6,4 +6,4 @@ I am a computer scientist graduated from [Unisagrado](https://unisagrado.edu.br/
 
 ## 📞 Contact Me
 
-- <a targt="_blank" href="https://beacons.ai/zehguilherme">Links</a>
+- <a target="_blank" href="https://beacons.ai/zehguilherme">Links</a>
