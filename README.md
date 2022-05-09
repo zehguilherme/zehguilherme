@@ -7,4 +7,4 @@ I am a computer scientist graduated from [Unisagrado](https://unisagrado.edu.br/
 ## 📞 Contact Me
 
 - <a href="https://www.linkedin.com/in/josé-guilherme-paro-monteiro-tomaine/">Linkedin</a>
-- <a href="mailto:jgtomaine@hotmail.com.com">E-mail</a>
+- <a href="mailto:jgtomaine@hotmail.com">E-mail</a>
