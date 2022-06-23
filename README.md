@@ -2,7 +2,7 @@
 
 Hey there! I’m José Guilherme.
 
-I am a computer scientist graduated from [Unisagrado](https://unisagrado.edu.br/) in 2019 in Bauru, São Paulo.
+I am a computer scientist graduated from [Unisagrado](https://unisagrado.edu.br/) in 2019 in Bauru, São Paulo, Brazil.
 
 ## 📞 Contact Me
 
