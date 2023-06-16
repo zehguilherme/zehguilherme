@@ -9,5 +9,3 @@ I started in this world in the 1st year of college (2016), at the time still not
 I did some internships at the university in the areas of technical support and development.
 
 I am always striving to understand and put into practice the greatest number of different tools and technologies, always aiming at knowledge, which is indispensable, regardless of the area in which it operates.
-
-[Talk to me 👋](https://www.linkedin.com/in/josé-guilherme-paro-monteiro-tomaine/)
