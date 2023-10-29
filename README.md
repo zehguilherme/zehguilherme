@@ -7,7 +7,3 @@ I started in this world in the 1st year of college (2016), at the time I still d
 I carried out some internships at the college in the areas of technical support and development.
 
 I am always striving to understand and put into practice the greatest number of different tools and technologies, always aiming for knowledge, which is indispensable, regardless of the area in which we work.
-
-## My links
-
-👉🏻 [beacons.ai/zehguilherme](https://beacons.ai/zehguilherme)
