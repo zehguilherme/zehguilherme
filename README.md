@@ -1,4 +1,4 @@
-## Hello 👋🏻
+## 👋🏻 Hello
 
 I have a degree in Computer Science from Centro Universitário Sagrado Coração in the city of Bauru/SP and I work in the area of software development.
 
@@ -7,3 +7,9 @@ I started in this world in the 1st year of college (2016), at the time I still d
 I carried out some internships at the college in the areas of technical support and development.
 
 I am always striving to understand and put into practice the greatest number of different tools and technologies, always aiming for knowledge, which is indispensable, regardless of the area in which we work.
+
+## ✉️ Contact me
+
+- [GitHub](https://github.com/zehguilherme)
+- [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-guilherme-paro-monteiro-tomaine/)
+- [E-mail](mailto:jgtomaine@hotmail.com)
