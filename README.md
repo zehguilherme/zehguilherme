@@ -8,6 +8,10 @@ I carried out some internships at the college in the areas of technical support 
 
 I am always striving to understand and put into practice the greatest number of different tools and technologies, always aiming for knowledge, which is indispensable, regardless of the area in which we work.
 
+## 📖 My Projects
+
+- [Projects](https://www.notion.so/zehguilherme/Portf-lio-8f8d3ac3378a4172b3761f2981bf5d06#9f2b2137034c489ea7da6a2e7fd0e890)
+
 ## ✉️ Contact me
 
 - [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-guilherme-paro-monteiro-tomaine/)
