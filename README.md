@@ -16,7 +16,7 @@ I am always striving to understand and put into practice the greatest number of 
 
 ## 📖 My Projects
 
-- [Projects](https://www.notion.so/zehguilherme/Portf-lio-8f8d3ac3378a4172b3761f2981bf5d06#9f2b2137034c489ea7da6a2e7fd0e890)
+- [Projects](https://zehguilherme.notion.site/zehguilherme/Portf-lio-8f8d3ac3378a4172b3761f2981bf5d06#9f2b2137034c489ea7da6a2e7fd0e890)
 
 ## ✉️ Contact me
 
