@@ -2,10 +2,6 @@
 
 I currently work as **Front-end** developer.
 
-I have experience in technologies:
-
-**HTML, CSS, JavaScript, Tailwind CSS, Bootstrap, ReactJS, Next.js, Blazor, Git** and much more.
-
 I have a degree in Computer Science from Centro Universitário Sagrado Coração in the city of Bauru/SP and I work in the area of software development.
 
 I started in this world in the 1st year of college (2016), at the time I still didn't know exactly which area to pursue due to the great flood of new information being bombarded in my head (programming languages, concepts, tools, etc.), a totally new world .
