@@ -8,6 +8,10 @@ I carried out some internships at the college in the areas of technical support 
 
 I am always striving to understand and put into practice the greatest number of different tools and technologies, always aiming for knowledge, which is indispensable, regardless of the area in which we work.
 
+I have experience in technologies:
+
+- HTML, CSS, JavaScript, Tailwind CSS, Bootstrap, ReactJS, Next.js, Blazor, Git and much more.
+
 ## 📖 My Projects
 
 - [Projects](https://zehguilherme.notion.site/zehguilherme/Portf-lio-8f8d3ac3378a4172b3761f2981bf5d06#9f2b2137034c489ea7da6a2e7fd0e890)
