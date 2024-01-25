@@ -4,7 +4,7 @@
 
 - 🎓 Graduated in Computer Science @[Unisagrado](https://unisagrado.edu.br/) (2016-2019)
 - 💻 Web developer (Front-end)
-- 🌐 [My links](https://beacons.ai/zehguilherme)
+- 🔗 [My links](https://beacons.ai/zehguilherme)
 
 I have experience in technologies:
 
