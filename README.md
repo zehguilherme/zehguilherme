@@ -14,5 +14,4 @@ I have experience in technologies:
 - Bootstrap
 - ReactJS
 - Next.js
-- Blazor
 - Git and much more.
