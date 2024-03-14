@@ -13,5 +13,5 @@ I have experience in technologies:
 - Tailwind CSS
 - Bootstrap
 - ReactJS
-- Next.js
+- Blazor
 - Git and much more.
