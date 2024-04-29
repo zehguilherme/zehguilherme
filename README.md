@@ -2,7 +2,7 @@
 
 🎓 Graduated in Computer Science @[Unisagrado](https://unisagrado.edu.br/) (2016-2019)</br>
 💻 Front-end Developer (Web)</br>
-💬 Software developer since 2018, for 3 years I have worked in the hospital area using technologies such as **Blazor, Boostrap, HTML, CSS, jQuery and JavaScript**. I have already participated in the technology migration of some projects in this area, most of them being used by hundreds of users.
+⚙️ I have experience in these technologies: **HTML, CSS, JavaScript, Tailwind CSS, Bootstrap, ReactJS, Blazor, Git** and much more.
 
 ### 📫 Get in touch:
 
