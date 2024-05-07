@@ -2,7 +2,7 @@
 
 🎓 Graduated in Computer Science at [Unisagrado](https://unisagrado.edu.br/) (2016-2019)</br>
 💻 Front-end Developer (Web)</br>
-⚙️ I have experience in these technologies: **HTML, CSS, JavaScript, Tailwind CSS, Bootstrap, ReactJS, Blazor, Git**.
+⚙️ I have experience in these technologies: **HTML, CSS, JavaScript, ReactJS, NextJS, Tailwind CSS, Git**.
 
 ### 📫 Get in touch:
 
