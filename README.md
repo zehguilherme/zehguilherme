@@ -1,4 +1,4 @@
-## 👋🏻 Olá, sou o José Guilherme!
+## Olá 👋🏻, sou o José Guilherme!
 
 Com 6 anos de experiência na área de desenvolvimento de software já atuei tanto como **Back-end** quanto **Front-end** em algumas empresas. <br>
 
