@@ -1,6 +1,8 @@
 ## 👋🏻 Olá, sou o José Guilherme!
 
-💻 Desenvolvedor Front-end </br>
-🎓 Graduado em Ciência da Computação na [Unisagrado](https://unisagrado.edu.br/) (2016-2019) </br>
-⚙️ Possuo experiência nessas tecnologias: **React, NextJS, HTML, CSS, JavaScript, TypeScript, Tailwind CSS, Bootstrap, GraphQL, Git** </br>
-🧑🏻 Conheça mais sobre mim e meus projetos acessando os meus [links](https://beacons.ai/zehguilherme)
+- Com 6 anos de experiência na área de desenvolvimento de software já atuei tanto como **Back-end** quanto **Front-end** em algumas empresas.
+- Possuo experiência nessas tecnologias:
+  - **Front-end:** React, NextJS, HTML, CSS, JavaScript, TypeScript, jQuery, Tailwind CSS, Bootstrap, GraphQL
+  - **Back-end:** DatoCMS (CMS), Supabase
+  - **Testes Automatizados:** Jest, Testing Library
+  - **Controle de Versão:** Git
