@@ -9,4 +9,6 @@ Possuo experiência nessas tecnologias:
   - ⏳ **Controle de Versão:** Git
   - 🎨 **Design**: Figma
 
-👉🏻 [Acesse meus links](https://beacons.ai/zehguilherme)
+## Contato
+
+- 👉🏻 [https://beacons.ai/zehguilherme](https://beacons.ai/zehguilherme)
