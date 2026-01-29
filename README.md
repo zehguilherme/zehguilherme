@@ -6,7 +6,7 @@ Possuo experiência nessas tecnologias:
   - 🌐 **Front-end:** Vue.js, Nuxt.js, React, Next.js, HTML, CSS, JavaScript, TypeScript, jQuery, Tailwind CSS, Bootstrap, Sass (SCSS)
   - ⚙️ **Back-end:** DatoCMS (CMS), GraphQL, API REST
   - ✅ **Testes Automatizados:** Jest, Testing Library
-  - ⏳ **Controle de Versão:** Git, GitFlow
+  - ⏳ **Controle de Versão:** Git (GitFlow)
   - 🎨 **Design**: Figma
 
 ## Contato
