@@ -4,9 +4,9 @@ Com 8 anos de experiência na área de desenvolvimento de software já atuei tan
 
 Possuo experiência nessas tecnologias:
   - 🌐 **Front-end:** Vue.js, Nuxt.js, React, Next.js, HTML, CSS, JavaScript, TypeScript, Tailwind CSS, Bootstrap, Sass (SCSS)
-  - ⚙️ **Back-end:** DatoCMS (CMS), GraphQL, API REST
+  - ⚙️ **Back-end:** GraphQL, API REST
   - ✅ **Qualidade e Testes:** Jest, Testing Library
-  - ⏳ **Controle de Versão:** Git (GitFlow)
+  - ⏳ **Controle de Versão:** Git
   - 🎨 **Design**: Figma
   - 🔧 **Ferramentas**: VS Code
 
