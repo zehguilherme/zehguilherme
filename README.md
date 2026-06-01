@@ -9,6 +9,8 @@ Possuo experiência nessas tecnologias:
   - ⏳ **Controle de Versão:** Git (GitFlow)
   - 🎨 **Design**: Figma
   - 🔧 **Ferramentas**: VS Code
+  - 🔄 **Metodologias**: Scrum, Kanban
+  - 🗣️ **Idiomas**: Inglês (Técnico)
 
 ## Meus links
 
