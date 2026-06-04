@@ -2,7 +2,6 @@
 
 Com 8 anos de experiência na área de desenvolvimento de software atuo há 6 anos como desenvolvedor **Front-end**. <br>
 
-Possuo experiência nessas tecnologias:
   - 🌐 **Front-end:** Vue.js, Nuxt.js, React.js, Next.js, HTML, CSS, JavaScript, TypeScript, Tailwind CSS, Bootstrap, Sass (SCSS)
   - ⚙️ **Back-end:** GraphQL, API REST
   - ✅ **Qualidade e Testes:** Jest, Testing Library
