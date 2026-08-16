@@ -28,4 +28,4 @@ Gosto de aprender construindo, experimentar novas tecnologias e transformar prob
 
 ## 🔗 Meus links
 
-* 🌐 **Todos os meus links:** [beacons.ai/zehguilherme](https://beacons.ai/zehguilherme)
+* 🌐 [beacons.ai/zehguilherme](https://beacons.ai/zehguilherme)
